@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="app_name">ক্যালকুলেটর</string>
+  <string msgid="6555721211126788808" name="dec_point">"."</string>
+  <string msgid="697966218778843272" name="digit_0">"0"</string>
+  <string msgid="9009337429640544205" name="digit_1">"1"</string>
+  <string msgid="7722707864768133877" name="digit_2">"2"</string>
+  <string msgid="5813321444694024561" name="digit_3">"3"</string>
+  <string msgid="4768173444612236144" name="digit_4">"4"</string>
+  <string msgid="2015349411036328271" name="digit_5">"5"</string>
+  <string msgid="7350999202882497047" name="digit_6">"6"</string>
+  <string msgid="2386463125354638611" name="digit_7">"7"</string>
+  <string msgid="6298159258090202166" name="digit_8">"8"</string>
+  <string msgid="1221342734731110246" name="digit_9">"9"</string>
+  <string msgid="7312559527731358211" name="fun_cos">"cos"</string>
+  <string msgid="6282013842946532944" name="fun_ln">"ln"</string>
+  <string msgid="6856905045055937519" name="fun_log">"log"</string>
+  <string msgid="7136698561875496766" name="fun_sin">"sin"</string>
+  <string msgid="9116158377794370341" name="fun_tan">"tan"</string>
+  <string msgid="3126239559646368205" name="clr">"clr"</string>
+  <string msgid="6700172918709138470" name="del">"del"</string>
+  <string name="error_syntax">Error</string>
+</resources>
